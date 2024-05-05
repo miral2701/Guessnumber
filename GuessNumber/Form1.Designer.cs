@@ -61,7 +61,7 @@
             // 
             // numberTextBox
             // 
-            this.numberTextBox.Location = new System.Drawing.Point(563, 148);
+            this.numberTextBox.Location = new System.Drawing.Point(564, 148);
             this.numberTextBox.Name = "numberTextBox";
             this.numberTextBox.Size = new System.Drawing.Size(173, 31);
             this.numberTextBox.TabIndex = 2;
